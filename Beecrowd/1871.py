@@ -1,0 +1,5 @@
+m, n = input().split()
+soma = int(m) + int(n)
+somaStr = str(soma)
+vale0 = somaStr.replace("0", "")
+print(vale0)

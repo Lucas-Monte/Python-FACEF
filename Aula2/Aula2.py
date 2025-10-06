@@ -20,4 +20,4 @@ for i in range(N):
     print(vet[i])
 
 print("\nVetor")
-print(vet)
+print(vet)  

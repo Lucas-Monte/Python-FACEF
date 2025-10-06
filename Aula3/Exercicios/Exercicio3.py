@@ -2,15 +2,12 @@ import random
 
 def average(vet):
     s = 0
-    average = 0
     for i in vet:
         s += i
     
-    if s == 0:
-        return 'Impossivel calcular a média'
-    else:
-        average = s / len(vet)
-        return average
+   
+    average = s / len(vet)
+    return average
 
 vector = []
 

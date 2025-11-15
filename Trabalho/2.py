@@ -1,3 +1,4 @@
+# Lucas Antonio Monteiro
 nome = input("Digite o nome do arquivo: ")
 arquivo = open(f"C:/Users/Lucas Monteiro/Desktop/FACEF/Python - FACEF/Trabalho/{nome}.txt", "r")
 arquivoStopWords = open("C:/Users/Lucas Monteiro/Desktop/FACEF/Python - FACEF/Trabalho/stopwords.txt", "r")
